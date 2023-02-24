@@ -40,6 +40,17 @@ ___
  - FemTech Idea Contest, 2022
 ___
 
+🏆 Achievements in Research Domain
+ - Paper entiteled with "Prognosis of Acute
+Lymphoblastic Leukemia Using
+Microscopic Images by Inception V3
+based transfer Learning Model" accepted on ICECTE-22 [https://icecte.ruet.ac.bd/].
+ - Paper titeled with "Deep Transfer Learning
+Based Multi-Class Brain Tumors
+Classification Using MRI Images" published in ITEEEXplorer. Read the paper here[https://ieeexplore.ieee.org/document/9719003].
+
+___
+
 🎓 Education
  - Rajshahi University of Engineering and Technology (RUET), B.SC in CSE
  - Holy Cross College, HSC in Science
