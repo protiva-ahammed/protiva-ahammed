@@ -30,7 +30,7 @@ ___
 
 ___
 
- 📫 How to reach me: [Connect with me in Linkedin](https://www.linkedin.com/in/protiva-ahammed)
+ 📫 How to reach me: [Connect with me in Linkedin](linkedin.com/in/protiva-ahammed-169015214)
 
 ___
 
