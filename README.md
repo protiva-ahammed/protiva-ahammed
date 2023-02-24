@@ -44,7 +44,7 @@ ___
  - Paper entiteled with "Prognosis of Acute
 Lymphoblastic Leukemia Using
 Microscopic Images by Inception V3
-based transfer Learning Model" accepted on [ICECTE-22](https://icecte.ruet.ac.bd/)
+based transfer Learning Model" accepted on [ICECTE-22](https://icecte.ruet.ac.bd/).
  - Paper titeled with "Deep Transfer Learning
 Based Multi-Class Brain Tumors
 Classification Using MRI Images" published in IEEEXplore. Read the paper [here](https://ieeexplore.ieee.org/document/9719003).
