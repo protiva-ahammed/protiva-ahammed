@@ -35,13 +35,13 @@ ___
 ___
 
 💻 Coding Contest Participation Record
-+National Girls Programming Contest (NGPC) , 2019
-+Ada Lovlace Datathon, 12th as a team, 2021
-.+FemTech Idea Contest, 2022
+ - National Girls Programming Contest (NGPC) , 2019
+ - Ada Lovlace Datathon, 12th as a team, 2021
+ - FemTech Idea Contest, 2022
 ___
 
 🎓 Education
-+Rajshahi University of Engineering and Technology (RUET), B.SC in CSE
-+Holy Cross College, HSC in Science
+ - Rajshahi University of Engineering and Technology (RUET), B.SC in CSE
+ - Holy Cross College, HSC in Science
 
 
