@@ -22,11 +22,11 @@ I graduated from Rajshahi University of Engineering and Technology (RUET). I am 
 
 ___
 
-Skills: C / C++ / Java / Spring Boot / PYTHON / Django / ML / DL / JS / HTML / CSS
+Skills: C / C++ / Java / Spring Boot / PYTHON / Django / ML / DL / JavaScript / ReactJs/ TypeScript / HTML / CSS / TailwindCSS 
 
 ___
 
- 🌱 I’m currently learning : I'm currently learning Java, Spring Boot 3, and DSA to improve my development skills, and object-oriented programming concepts and stay up-to-date with the latest technologies. Because continuous active learning is the key to being an excellent, successful Full Stack developer, I am also learning Machine Learning, Deep Learning to work on the research domain.
+ 🌱 I’m currently learning : I'm currently learning Java, Spring Boot 3, ReactJs and DSA to improve my development skills, and object-oriented programming concepts and stay up-to-date with the latest technologies. Because continuous active learning is the key to being an excellent, successful Full Stack developer, I am also learning Machine Learning, Deep Learning to work on the research domain.
 
 ___
 
