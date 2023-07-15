@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, I am Protiva Ahammed.
-#### I am a problem solver, Full stack developer and AI enthusiast.
+#### I am a problem solver, full-stack developer, and AI enthusiast.
 
 
-I graduated from Rajshahi University of Engineering and Technology (RUET). I am interested in Machine Learning, Deep Learning, Image processing, Medical Image processing.
-
-___
-
-Skills: C / C++ / PYTHON / Django / ML / DL / JS / HTML / CSS
+I graduated from Rajshahi University of Engineering and Technology (RUET). I am interested in Machine Learning, Deep Learning, Image processing, and Medical Image processing.
 
 ___
 
- 🌱 I’m currently learning : I'm currently learning Java, DSA to improve my development skills, object-oriented programming concepts and stay up-to-date with the latest technologies. Because continuous active learning is the key to be an excellent, successful Full Stack Web Developer.I am also learning Machine Learning, Deep Learning to work on research domain.
+Skills: C / C++ / Java / Spring Boot / PYTHON / Django / ML / DL / JS / HTML / CSS
+
+___
+
+ 🌱 I’m currently learning : I'm currently learning Java, Spring Boot 3, and DSA to improve my development skills, and object-oriented programming concepts and stay up-to-date with the latest technologies. Because continuous active learning is the key to being an excellent, successful Full Stack developer, I am also learning Machine Learning, Deep Learning to work on the research domain.
 
 ___
 
@@ -41,7 +41,7 @@ ___
 ___
 
 🏆 Achievements in Research Domain
- - Paper entiteled with "Prognosis of Acute
+ - Paper entitled with "Prognosis of Acute
 Lymphoblastic Leukemia Using
 Microscopic Images by Inception V3
 based transfer Learning Model" accepted on [ICECTE-22](https://icecte.ruet.ac.bd/).
