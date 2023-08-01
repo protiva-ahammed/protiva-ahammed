@@ -22,11 +22,11 @@ I graduated from Rajshahi University of Engineering and Technology (RUET). I am 
 
 ___
 
-Skills: C / C++ / Java / Spring Boot / PYTHON / Django / ML / DL / JavaScript / ReactJs/ TypeScript / HTML / CSS / TailwindCSS 
+Skills: C / C++ / Java / Spring Boot / White-Box-Testing/ Python / Django / ML / DL / JavaScript / ReactJs/ TypeScript / HTML / CSS / TailwindCSS 
 
 ___
 
- 🌱 I’m currently learning : I'm currently learning Java, Spring Boot 3, ReactJs and DSA to improve my development skills, and object-oriented programming concepts and stay up-to-date with the latest technologies. Because continuous active learning is the key to being an excellent, successful Full Stack developer, I am also learning Machine Learning, Deep Learning to work on the research domain.
+ 🌱 I’m currently learning : I'm currently learning Java, Spring Boot 3, ReactJ,s and DSA to improve my development skills, and object-oriented programming concepts and stay up-to-date with the latest technologies. Because continuous active learning is the key to being an excellent, successful full-stack developer, I am also learning Machine learning and deep learning to work on the research domain.
 
 ___
 
@@ -44,7 +44,7 @@ ___
  - Paper entitled with "Prognosis of Acute
 Lymphoblastic Leukemia Using
 Microscopic Images by Inception V3
-based transfer Learning Model" accepted on [ICECTE-22](https://icecte.ruet.ac.bd/).
+based transfer Learning Model" accepted on IEEEXplore. Read the paper [here](https://ieeexplore.ieee.org/document/10114522).
  - Paper titeled with "Deep Transfer Learning
 Based Multi-Class Brain Tumors
 Classification Using MRI Images" published in IEEEXplore. Read the paper [here](https://ieeexplore.ieee.org/document/9719003).
