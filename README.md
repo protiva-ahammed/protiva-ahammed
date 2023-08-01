@@ -26,7 +26,7 @@ Skills: C / C++ / Java / Spring Boot / White-Box-Testing/ Python / Django / ML /
 
 ___
 
- 🌱 I’m currently learning : I'm currently learning Java, Spring Boot 3, ReactJ,s and DSA to improve my development skills, and object-oriented programming concepts and stay up-to-date with the latest technologies. Because continuous active learning is the key to being an excellent, successful full-stack developer, I am also learning Machine learning and deep learning to work on the research domain.
+ 🌱 Currently learning : I'm currently learning Java, Spring Boot 3, ReactJ,s and DSA to improve my development skills, and object-oriented programming concepts and stay up-to-date with the latest technologies. Because continuous active learning is the key to being an excellent, successful full-stack developer, I am also learning Machine learning and deep learning to work on the research domain.
 
 ___
 
