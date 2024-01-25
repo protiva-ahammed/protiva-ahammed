@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### I am a problem solver, full-stack developer, and AI enthusiast.
 
 
-I graduated from Rajshahi University of Engineering and Technology (RUET). I am interested in Machine Learning, Deep Learning, Image processing, and Medical Image processing.
+I am working as a software engineer in Mass Holdings Inc. I graduated from Rajshahi University of Engineering and Technology (RUET). I am interested in Machine Learning, Deep Learning, Image processing, and Medical Image processing.
 
 ___
 
