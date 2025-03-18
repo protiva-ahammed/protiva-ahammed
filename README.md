@@ -22,11 +22,11 @@ I am working as a software engineer in Mass Holdings Inc. I graduated from Rajsh
 
 ___
 
-Skills: C / C++ / Java / Spring Boot / White-Box-Testing/ Python / Django / ML / DL / JavaScript / ReactJs/ TypeScript / HTML / CSS / TailwindCSS 
+Skills: C# / .NET / Embeded System & IOT / C / C++ / Java / Spring Boot / PostGreSQL / Oracle DB / White-Box-Testing/ Python / Django / ML / DL / JavaScript / ReactJs/ TypeScript / HTML / CSS / TailwindCSS 
 
 ___
 
- 🌱 Currently learning : I'm currently learning Java, Spring Boot 3, ReactJs and DSA to improve my development skills, and object-oriented programming concepts and stay up-to-date with the latest technologies. Because continuous active learning is the key to being an excellent, successful full-stack developer, I am also learning Machine learning and deep learning to work on the research domain.
+ 🌱 Currently learning : I'm currently learning C# , .NET , Embeded System to develop a DSA Digital Sorting System. I also code in Java, Spring Boot 3, ReactJs and DSA to  develope  & add features for a core logistic system , I use object-oriented programming concepts , advance SQL to　query in PostGreSQL , ORACLE DB and stay up-to-date with the latest technologies. Because of continuous active learning is the key to being an excellent, successful full-stack developer, I am also learning Machine learning and deep learning to work on the research domain.
 
 ___
 
