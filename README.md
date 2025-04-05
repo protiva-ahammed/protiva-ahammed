@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### I am a problem solver, full-stack developer, and AI enthusiast.
 
 
-I am working as a software engineer in Mass Holdings Inc. I graduated from Rajshahi University of Engineering and Technology (RUET). I am interested in Machine Learning, Deep Learning, Image processing, and Medical Image processing.
+I am working as a software engineer in Mass Holdings Inc. I graduated from Rajshahi University of Engineering and Technology (RUET). I am interested in research domain in Machine Learning, Deep Learning, Image processing, and Medical Image processing.
 
 ___
 
@@ -26,7 +26,7 @@ Skills: C# / .NET / Embeded System & IOT / C / C++ / Java / Spring Boot / PostGr
 
 ___
 
- 🌱 Currently learning : I'm currently learning C# , .NET , Embeded System to develop a DSA Digital Sorting System. I also code in Java, Spring Boot 3, ReactJs and DSA to  develope  & add features for a core logistic system , I use object-oriented programming concepts , advance SQL to　query in PostGreSQL , ORACLE DB and stay up-to-date with the latest technologies. Because of continuous active learning is the key to being an excellent, successful full-stack developer, I am also learning Machine learning and deep learning to work on the research domain.
+ 🌱 Currently learning : I'm currently learning C# , .NET , Embeded System to develop a DSA Digital Sorting System. I also code in Java, Spring Boot 3, ReactJs and DAS to  develope  & add features for a core logistic system , I use object-oriented programming concepts , advance SQL to　query in PostGreSQL , ORACLE DB and stay up-to-date with the latest technologies. Because of continuous active learning is the key to being an excellent, successful full-stack developer.
 
 ___
 
