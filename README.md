@@ -22,7 +22,7 @@ I am working as a software engineer in Mass Holdings Inc. I graduated from Rajsh
 
 ___
 
-Skills: C# / .NET / Embeded System & IOT / C / C++ / Java / Spring Boot / PostGreSQL / Oracle DB / White-Box-Testing/ Python / Django / ML / DL / JavaScript / ReactJs/ TypeScript / HTML / CSS / TailwindCSS 
+Skills:Java / Spring Boot /  C# / .NET / Embeded System & IOT / C / C++ / PostGreSQL / Oracle DB / White-Box-Testing/ Python / Django / ML / DL / JavaScript / ReactJs/ TypeScript / HTML / CSS / TailwindCSS 
 
 ___
 
