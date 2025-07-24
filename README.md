@@ -41,6 +41,7 @@ ___
 ___
 
 🏆 Achievements in Research Domain
+ - Google Scholar Link [here](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en)
  - Paper entitled with "Prognosis of Acute
 Lymphoblastic Leukemia Using
 Microscopic Images by Inception V3
