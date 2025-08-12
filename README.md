@@ -26,7 +26,7 @@ Skills:Java / Spring Boot /  C# / .NET / Embeded System & IOT / C / C++ / PostGr
 
 ___
 
- 🌱 Currently learning : I'm currently learning C# , .NET , Embeded System to develop a DSA Digital Sorting System. I also code in Java, Spring Boot 3, ReactJs and DAS to  develope  & add features for a core logistic system , I use object-oriented programming concepts , advance SQL to　query in PostGreSQL , ORACLE DB and stay up-to-date with the latest technologies. Because of continuous active learning is the key to being an excellent, successful full-stack developer.
+ 🌱 Currently learning : I'm currently learning C# , .NET , Embeded System to develop a DSA Digital Sorting System. I also code in Java, Spring Boot 3, ReactJs to  develope  & add features for a core logistic system , I use object-oriented programming concepts , advance SQL to　query in PostGreSQL , ORACLE DB and stay up-to-date with the latest technologies. 
 
 ___
 
