@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 #### I am a problem solver, Software Development Engineer.
 
 
-I am working as a software engineer.I graduated from Rajshahi University of Engineering and Technology (RUET). I am interested to research in AI, LLMs , programming languages, testing.
+I am working as a software engineer.I graduated from Rajshahi University of Engineering and Technology (RUET). I am interested  in AI, programming languages, SDE .
 
 ___
 
-Skills:Java / Spring Boot /  C# / .NET / Embeded System & IOT / C / C++ / PostGreSQL / Oracle DB / White-Box-Testing/ Python / Django / ML / DL / JavaScript / ReactJs/ TypeScript / HTML / CSS / TailwindCSS 
+Skills:Java / Spring Boot /  C# / .NET / Embeded System & IOT / C / C++ / PostGreSQL / Oracle DB / Integration-Testing/ Python / Django / ML / DL / JavaScript / ReactJs/ TypeScript / HTML / CSS / TailwindCSS 
 
 ___
 
- 🌱 Currently learning : I'm currently working in C# , .NET , Embeded System to develop a DSA Digital Sorting System, Java backend in new features for logistic domain. I use object-oriented programming concepts , advance SQL to　query in PostGreSQL , ORACLE DB. I am learning LLms to implement the base papers from scratch.
+ 🌱 Currently learning : I am working in C# , .NET , Embeded System to develop a DAS Digital Sorting System, in Java backend to build new features in logistic domain. I use oop concepts in microservices, advance SQL to　query in PostGreSQL , ORACLE DB. I am currently challenging myself by working on Machine Learning algos, LLms to implement base papers by reading, algorithms from scratch.
 
 ___
 
@@ -35,8 +35,8 @@ ___
 ___
 
 💻 Coding Contest Participation Record
- - National Girls Programming Contest (NGPC) , 2019
- - Ada Lovlace Datathon, 12th as a team, 2021
+ - National Girls Programming Contest (NGPC), 2019
+ - Ada Lovlace Datathon, 2021
  - FemTech Idea Contest, 2022
 ___
 
@@ -45,10 +45,10 @@ ___
  - Paper entitled with "Prognosis of Acute
 Lymphoblastic Leukemia Using
 Microscopic Images by Inception V3
-based transfer Learning Model" accepted on IEEEXplore. Read the paper in above link.
+based transfer Learning Model". Read the paper using above link.
  - Paper titeled with "Deep Transfer Learning
 Based Multi-Class Brain Tumors
-Classification Using MRI Images" published in IEEEXplore. Read the paper in above link.
+Classification Using MRI Images". Read the paper using above link.
 
 ___
 
@@ -57,8 +57,6 @@ ___
  - Holy Cross College, HSC in Science
 
 ____
-
-### Languages and Tools
 
 #### Programming Languages
 
