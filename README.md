@@ -26,7 +26,7 @@ Skills:Java / Spring Boot /  C# / .NET / Embeded System & IoT / C / C++ / PostGr
 
 ___
 
- 🌱 Currently learning : I am working in C# , .NET , Embeded System to develop a DAS Digital Sorting System, in Java backend to build new features in logistic domain. I use oop concepts in microservices, advance SQL to　query in PostGreSQL , ORACLE DB. I am currently challenging myself by working on Machine Learning algos, LLms to implement base papers by reading, algorithms from scratch.
+ 🌱 Currently learning : I am working in C# , .NET , Embeded System to develop a DAS Digital Sorting System, in Java backend to build new features in logistic domain. I use oop concepts in microservices, advance SQL to query in PostGreSQL , ORACLE DB. I am currently challenging myself by working on Machine Learning algos, LLms to implement base papers by reading from scratch.
 
 ___
 
