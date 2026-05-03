@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### I am a problem solver, Software Development Engineer.
 
 
-I am working as a software engineer.I graduated from Rajshahi University of Engineering and Technology (RUET). I am interested  in AI, programming languages, SDE .
+I am working as a software engineer at Mass Holdings Inc. I graduated from Rajshahi University of Engineering and Technology (RUET). I am interested in AI, programming languages, SDE .
 
 ___
 
