@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### I am a problem solver, Software Development Engineer.
 
 
-I am working as a software engineer at Mass Holdings Inc. I graduated from Rajshahi University of Engineering and Technology (RUET). I am interested in AI, programming languages, SDE .
+I am working as a software engineer. I graduated from Rajshahi University of Engineering and Technology (RUET). I am interested in AI, programming languages, SDE .
 
 ___
 
@@ -26,7 +26,7 @@ Skills:Java / Spring Boot /  C# / .NET / Embeded System & IoT / C / C++ / PostGr
 
 ___
 
- 🌱 Currently learning : I am working in C# , .NET , Embeded System to develop a DAS Digital Sorting System, in Java backend to build new features in logistic domain. I use oop concepts in microservices, advance SQL to query in PostGreSQL , ORACLE DB. I am currently challenging myself by working on Machine Learning algos, LLms to implement base papers by reading from scratch.
+ 🌱 Currently learning : I am working in C# , .NET , Embeded System to develop a DAS Digital Sorting System Controller application. In Java backend to build new features in logistic domain. I use oop concepts in monolithinc, microservices, advance SQL to query in PostGreSQL , ORACLE DB. I am currently challenging myself by working on Machine Learning algos, LLms.
 
 ___
 
