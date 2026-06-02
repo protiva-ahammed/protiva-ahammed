@@ -1,62 +1,85 @@
+# Hi, I'm Protiva Ahammed 👋
 
+ML Researcher · Software Engineer · Problem Solver
 
-<!--
-**protiva-ahammed/protiva-ahammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[website](https://ahmed-website-nine.vercel.app)
-Here are some ideas to get you started:
+I am a machine learning researcher with published work in 
+deep learning for medical imaging — cancer detection and 
+brain tumor classification using transfer learning. 
+I am a software engineer based in Japan with 3+ years 
+of production experience building enterprise backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋, I am Protiva Ahammed.
-#### I am a problem solver, Software Development Engineer.
+I am currently exploring LLM applications in software 
+engineering and building foundations in autonomous systems 
+and robotics toward PhD research in Fall 2027.
 
+---
 
-I am working as a software engineer. I graduated from Rajshahi University of Engineering and Technology (RUET). I am interested in AI, programming languages, SDE .
+## 🔬 Research Publications
 
-___
+| Paper | Area | Citations |
+|-------|------|-----------|
+| [Deep Transfer Learning Based Multi-Class Brain Tumors Classification Using MRI Images](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en) | Medical Imaging · Brain Tumor Detection | 29 |
+| [Prognosis of Acute Lymphoblastic Leukemia Using Microscopic Images by Inception V3 Based Transfer Learning](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en) | Medical Imaging · Leukemia Detection | 7 |
 
-Skills:Java / Spring Boot /  C# / .NET / Embeded System & IoT / C / C++ / PostGreSQL / Oracle DB / Integration-Testing/ Python / Django / ML / DL / JavaScript / ReactJs/ TypeScript / HTML / CSS / TailwindCSS 
+📚 [Google Scholar Profile](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en)
 
-___
+---
 
- 🌱 Currently learning : I am working in C# , .NET , Embeded System to develop a DAS Digital Sorting System Controller application. In Java backend to build new features in logistic domain. I use oop concepts in monolithinc, microservices, advance SQL to query in PostGreSQL , ORACLE DB. I am currently challenging myself by working on Machine Learning algos, LLms.
+## 🌱 Current Research Interests
 
-___
+- **LLM for Software Engineering** — investigating gaps between 
+  LLM code generation benchmarks and production enterprise codebases
+- **Medical Imaging AI** — extending published transfer learning 
+  work toward uncertainty-aware cancer detection
+- **Autonomous Systems** — ROS2 foundations, 
+  perception pipelines, real-time AI deployment
 
- 📫 How to reach me: [Connect with me in Linkedin](linkedin.com/in/protiva-ahammed-169015214)
+---
 
-___
+## 💼 Industry Experience
 
-💻 Coding Contest Participation Record
- - National Girls Programming Contest (NGPC), 2019
- - Ada Lovlace Datathon, 2021
- - FemTech Idea Contest, 2022
-___
+**Software Development Engineer** — Japan (2022–present)
 
-🏆 Achievements in Research Domain
- - Google Scholar Link [here](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en)
- - Paper entitled with "Prognosis of Acute
-Lymphoblastic Leukemia Using
-Microscopic Images by Inception V3
-based transfer Learning Model". Read the paper using above link.
- - Paper titeled with "Deep Transfer Learning
-Based Multi-Class Brain Tumors
-Classification Using MRI Images". Read the paper using above link.
+3+ years building production enterprise systems:
+- Java · Spring Boot backend for logistics domain
+- C# · .NET embedded controller applications (DAS Digital Sorting System)
+- PostgreSQL · Oracle DB — advanced SQL, query optimization
+- Docker · Microservices · REST APIs · Integration Testing
+- React · TypeScript frontend
 
-___
+---
 
-🎓 Education
- - Rajshahi University of Engineering and Technology (RUET), B.SC in CSE
- - Holy Cross College, HSC in Science
+## 🛠️ Technical Skills
 
-____
+**Languages:** Java · Python · C# · C · C++ · JavaScript · TypeScript  
+**Frameworks:** Spring Boot · .NET · React · Django · TailwindCSS  
+**ML/AI:** PyTorch · TensorFlow · Transfer Learning · CNNs · LLMs  
+**Databases:** PostgreSQL · Oracle DB  
+**Systems:** Embedded Systems · IoT · ROS2 (Humble)  
+**DevOps:** Docker · Microservices · REST APIs
+
+---
+
+## 🏆 Competitions
+
+- National Girls Programming Contest (NGPC) — 2019
+- Ada Lovelace Datathon — 2021
+- FemTech Idea Contest — 2022
+
+---
+
+## 🎓 Education
+
+**B.Sc. Computer Science and Engineering**  
+Rajshahi University of Engineering and Technology (RUET)
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/protiva-ahammed-169015214)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-green)](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en)
+[![Website](https://img.shields.io/badge/Website-Portfolio-orange)](https://ahmed-website-nine.vercel.app)
 
 #### Programming Languages
 
@@ -120,6 +143,7 @@ ____
 <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/></a></td>
 <td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/></a></td>
 </tr></table>
+
 
 
 
