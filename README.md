@@ -10,7 +10,7 @@ of production experience building enterprise backend systems.
 
 I am currently exploring LLM applications in software 
 engineering and building foundations in autonomous systems 
-and robotics toward PhD research in Fall 2027.
+and robotics.
 
 ---
 
