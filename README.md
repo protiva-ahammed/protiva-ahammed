@@ -38,7 +38,7 @@ and robotics.
 
 ## 💼 Industry Experience
 
-**Software Development Engineer** — Japan (2022–present)
+**Software Development Engineer** — Japan (2023–present)
 
 3+ years building production enterprise systems:
 - Java · Spring Boot backend for logistics domain
