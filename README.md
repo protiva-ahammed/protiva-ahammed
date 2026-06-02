@@ -71,7 +71,10 @@ and robotics.
 ## 🎓 Education
 
 **B.Sc. Computer Science and Engineering**  
-Rajshahi University of Engineering and Technology (RUET)
+Rajshahi University of Engineering and Technology (RUET)  
+
+**Higher Secondary Certificate — Science**  
+Holy Cross College
 
 ---
 
