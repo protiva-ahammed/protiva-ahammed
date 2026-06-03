@@ -8,7 +8,7 @@ brain tumor classification using transfer learning.
 I am a software engineer based in Japan with 3+ years 
 of production experience building enterprise backend systems.
 
-I am currently exploring LLM applications in software 
+I am studying LLM applications in software 
 engineering and building foundations in autonomous systems 
 and robotics.
 
