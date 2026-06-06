@@ -14,18 +14,18 @@ and robotics.
 
 ---
 
-## 🔬 Research Publications
+## Research Publications
 
 | Paper | Area | Citations |
 |-------|------|-----------|
 | [Prognosis of Acute Lymphoblastic Leukemia Using Microscopic Images by Inception V3 Based Transfer Learning](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en) | Medical Imaging · Leukemia Detection | 7 |
 | [Deep Transfer Learning Based Multi-Class Brain Tumors Classification Using MRI Images](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en) | Medical Imaging · Brain Tumor Detection | 29 |
 
-📚 [Google Scholar Profile](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en)
+ [Google Scholar Profile](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en)
 
 ---
 
-## 🌱 Current Research Interests
+## Current Research Interests
 
 - **LLM for Software Engineering** — investigating gaps between 
   LLM code generation benchmarks and production enterprise codebases
@@ -36,11 +36,11 @@ and robotics.
 
 ---
 
-## 💼 Industry Experience
+## Industry Experience
 
 **Software Development Engineer** — Japan (2023–present)
 
-3+ years building production enterprise systems:
+3 years building production enterprise systems:
 - Java · Spring Boot backend for logistics domain
 - C# · .NET embedded controller applications (DAS Digital Sorting System)
 - PostgreSQL · Oracle DB — advanced SQL, query optimization
@@ -49,7 +49,7 @@ and robotics.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages:** Java · Python · C# · C · C++ · JavaScript · TypeScript  
 **Frameworks:** Spring Boot · .NET · React · Django · TailwindCSS  
@@ -60,7 +60,7 @@ and robotics.
 
 ---
 
-## 🏆 Competitions
+## Competitions
 
 - National Girls Programming Contest (NGPC) — 2019
 - Ada Lovelace Datathon — 2021
@@ -68,7 +68,7 @@ and robotics.
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.Sc. Computer Science and Engineering**  
 Rajshahi University of Engineering and Technology (RUET)  
@@ -78,7 +78,7 @@ Holy Cross College
 
 ---
 
-## 📫 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/protiva-ahammed-169015214)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-green)](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en)
