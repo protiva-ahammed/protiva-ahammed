@@ -1,11 +1,11 @@
-# Hi, I'm Protiva Ahammed 👋
+# Hi, I'm Protiva Ahammed 
 
 ML Researcher · Software Engineer · Problem Solver
 
 I am a machine learning researcher with published work in 
 deep learning for medical imaging — cancer detection and 
 brain tumor classification using transfer learning. 
-I am a software engineer based in Japan with 3+ years 
+I am a software engineer based in Japan with 3 years 
 of production experience building enterprise backend systems.
 
 I am studying LLM applications in software 
