@@ -78,14 +78,6 @@ Holy Cross College
 
 ---
 ## Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/protiva-ahammed-169015214">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
-  </a>
-  <a href="https://ahmed-protiva.vercel.app">
-    <img src="https://img.shields.io/badge/Website-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website" />
-  </a>
-</p>
+[![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/protiva-ahammed-169015214)
+[![Google Scholar](assets/badges/google-scholar.svg)](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en)
+[![Website](assets/badges/website.svg)](https://ahmed-protiva.vercel.app)
