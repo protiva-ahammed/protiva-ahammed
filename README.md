@@ -31,8 +31,7 @@ and robotics.
   LLM code generation benchmarks and production enterprise codebases
 - **Medical Imaging AI** — extending published transfer learning 
   work toward uncertainty-aware cancer detection
-- **Autonomous Systems** — ROS2 foundations, 
-  perception pipelines, real-time AI deployment
+- **Autonomous Systems** — perception pipelines, real-time AI deployment
 
 ---
 
