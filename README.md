@@ -9,8 +9,7 @@ I am a software engineer based in Japan with 3 years
 of production experience building enterprise backend systems.
 
 I am studying LLM applications in software 
-engineering and building foundations in autonomous systems 
-and robotics.
+engineering, autonomous systems. 
 
 ---
 
@@ -54,7 +53,7 @@ and robotics.
 **Frameworks:** Spring Boot · .NET · React · Django · TailwindCSS  
 **ML/AI:** PyTorch · TensorFlow · Transfer Learning · CNNs · LLMs  
 **Databases:** PostgreSQL · Oracle DB  
-**Systems:** Embedded Systems · IoT · ROS2 (Humble)  
+**Systems:** Embedded Systems · IoT  
 **DevOps:** Docker · Microservices · REST APIs
 
 ---
