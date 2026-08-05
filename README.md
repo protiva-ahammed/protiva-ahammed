@@ -53,8 +53,9 @@ engineering, autonomous systems.
 **Frameworks:** Spring Boot · .NET · React · Django · TailwindCSS  
 **ML/AI:** PyTorch · TensorFlow · Transfer Learning · CNNs · LLMs  
 **Databases:** PostgreSQL · Oracle DB  
-**Systems:** Embedded Systems · IoT  
-**DevOps:** Docker · Microservices · REST APIs
+**Systems:** Embedded Systems · IoT   
+**Architecture:** REST APIs · Microservices
+**DevOps:** Docker · Kubernetes · CI/CD Automation · Grafana
 
 ---
 
