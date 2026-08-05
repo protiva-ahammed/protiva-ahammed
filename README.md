@@ -17,7 +17,7 @@ engineering, autonomous systems.
 
 | Paper | Area | Citations |
 |-------|------|-----------|
-| [Prognosis of Acute Lymphoblastic Leukemia Using Microscopic Images by Inception V3 Based Transfer Learning](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en) | Medical Imaging · Leukemia Detection | 8 |
+| [Prognosis of Acute Lymphoblastic Leukemia Using Microscopic Images by Inception V3 Based Transfer Learning](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en) | Medical Imaging · Leukemia Detection | 7 |
 | [Deep Transfer Learning Based Multi-Class Brain Tumors Classification Using MRI Images](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en) | Medical Imaging · Brain Tumor Detection | 29 |
 
  [Google Scholar Profile](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en)
@@ -54,7 +54,7 @@ engineering, autonomous systems.
 **ML/AI:** PyTorch · TensorFlow · Transfer Learning · CNNs · LLMs  
 **Databases:** PostgreSQL · Oracle DB  
 **Systems:** Embedded Systems · IoT   
-**Architecture:** REST APIs · Microservices 
+**Architecture:** REST APIs · Microservices. 
 **DevOps:** Docker · Kubernetes · CI/CD Automation · Grafana
 
 ---
