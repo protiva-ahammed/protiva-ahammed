@@ -54,7 +54,7 @@ engineering, autonomous systems.
 **ML/AI:** PyTorch · TensorFlow · Transfer Learning · CNNs · LLMs  
 **Databases:** PostgreSQL · Oracle DB  
 **Systems:** Embedded Systems · IoT   
-**Architecture:** REST APIs · Microservices
+**Architecture:** REST APIs · Microservices 
 **DevOps:** Docker · Kubernetes · CI/CD Automation · Grafana
 
 ---
