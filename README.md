@@ -15,7 +15,7 @@ of production experience building enterprise backend systems.
 | Paper | Area | Citations |
 |-------|------|-----------|
 | [Prognosis of Acute Lymphoblastic Leukemia Using Microscopic Images by Inception V3 Based Transfer Learning](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en) | Medical Imaging · Leukemia Detection | 8 |
-| [Deep Transfer Learning Based Multi-Class Brain Tumors Classification Using MRI Images](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en) | Medical Imaging · Brain Tumor Detection | 30 |
+| [Deep Transfer Learning Based Multi-Class Brain Tumors Classification Using MRI Images](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en) | Medical Imaging · Brain Tumor Detection | 34 |
 
  [Google Scholar Profile](https://scholar.google.com/citations?user=VlMqVhAAAAAJ&hl=en)
 
